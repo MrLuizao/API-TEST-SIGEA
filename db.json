@@ -1,16 +1,13 @@
 {
-  "reponse": {
-     "data":[
-      "profile": {
+    "profile": {
         "nameUser": "Luis",
         "lastNameUser": "Vázquez",
         "levelUser": "ADMIN"
-      },
-      "token": "09sa8dlkasjd89asud3oihehdnc",
-      "lastAccess": ""
-    ],
+    },
+    
     "status": "success",
     "code": 200,
-    "message": "Autenticación exitosa"
-  }
+    "message": "Autenticación exitosa",
+    "token": "09sa8dlkasjd89asud3oihehdnc",
+    "lastAccess": ""
 }
