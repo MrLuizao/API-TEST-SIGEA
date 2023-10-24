@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "mail": "lvazquez@test.com",
+      "pass": "pass1",
+      "token": "09sa8dlkasjd89asud3oihehdnc"
+    }
+  ]
+}
