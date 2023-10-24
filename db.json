@@ -1,9 +1,16 @@
 {
-  "reponse": [
-    {
-      "id": 1,
-      "username": "user1",
-      "password": "pass1"
+  "reponse": {
+    "status": "success",
+    "code": 200,
+    "message": "Autenticación exitosa",
+    "data": {
+      "profile": {
+        "nameUser": "Luis",
+        "lastNameUser": "Vázquez",
+        "levelUser": "ADMIN"
+      },
+      "token": "09sa8dlkasjd89asud3oihehdnc",
+      "lastAccess": ""
     }
-  ]
+  }
 }
