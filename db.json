@@ -1,10 +1,10 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "mail": "lvazquez@test.com",
-      "pass": "pass1",
-      "token": "09sa8dlkasjd89asud3oihehdnc"
-    }
-  ]
+  "status": "success",
+  "code": 200,
+  "message": "Autenticación exitosa",
+  "data": {
+    "nameUser": "Luis",
+    "lastNameUser": "Vázquez",
+    "levelUser": "ADMIN"
+  }
 }
