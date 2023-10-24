@@ -1,14 +1,10 @@
 {
-    "status": "success",
-    "code": 200,
-    "message": "Autenticación exitosa",
-    "data": {
-      "profile": {
+    "response":{
+        "code": 200,
+        "message": "Autenticación exitosa",
         "nameUser": "Luis",
         "lastNameUser": "Vázquez",
         "levelUser": "ADMIN"
-      },
-      "token": "09sa8dlkasjd89asud3oihehdnc",
-      "lastAccess": ""
+        "token": "09sa8dlkasjd89asud3oihehdnc"
     }
 }
