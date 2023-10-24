@@ -1,13 +1,14 @@
 {
-    "profile": {
-        "nameUser": "Luis",
-        "lastNameUser": "Vázquez",
-        "levelUser": "ADMIN"
-    },
-    
     "status": "success",
     "code": 200,
     "message": "Autenticación exitosa",
-    "token": "09sa8dlkasjd89asud3oihehdnc",
-    "lastAccess": ""
+    "data": {
+      "profile": {
+        "nameUser": "Luis",
+        "lastNameUser": "Vázquez",
+        "levelUser": "ADMIN"
+      },
+      "token": "09sa8dlkasjd89asud3oihehdnc",
+      "lastAccess": ""
+    }
 }
