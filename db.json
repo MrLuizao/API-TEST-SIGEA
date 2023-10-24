@@ -1,10 +1,10 @@
 {
-    "response":{
+    "response":[
         "code": 200,
         "message": "Autenticación exitosa",
         "nameUser": "Luis",
         "lastNameUser": "Vázquez",
-        "levelUser": "ADMIN"
+        "levelUser": "ADMIN",
         "token": "09sa8dlkasjd89asud3oihehdnc"
-    }
+    ]
 }
